@@ -17,13 +17,13 @@ This section provides a framework for analyzing market data and performing backt
 3. **Descriptive Statistics**
    - **factor1.py**: Defines the `AggregatedTrade` class for monitoring and aggregating trade data.
    - **backtest1.py**: Sets up a backtest using the `AggregatedTrade` monitor.
-   - ![trade_volume_distribution](trade_volume_distribution.png)
+
 
 4. **Factor Design**
    - **sampler.py**: Helper module for sampling data.
    - **factordesign2.py**: Defines the `ChipDistribution` class for calculating and plotting chip distributions.
    - **backtest factor design.py**: Sets up a backtest using the `ChipDistribution` monitor and calculates prediction power.
-   - ![000004.SZ_price_bounds](000004.SZ_price_bounds.png)
+
 
 ## Factor Analysis and Model Validation
 
